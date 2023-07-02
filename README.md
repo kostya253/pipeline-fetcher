@@ -1,4 +1,5 @@
 #pipeline-fetcher
+
 The Pipeline Fetcher allows fetching logs for a single workflow (run) in GitHub Actions.
 
 Arguments:
